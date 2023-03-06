@@ -29,10 +29,17 @@ Raspberry PI camera 1.3
 ![alt text](<data_analysis/data/cropped/rp13/102 360 256.956268.png>)
 ![alt text](<data_analysis/data/cropped/rp13/1033 404 184.884628.png>) 
 ![alt text](<data_analysis/data/cropped/rp13/105 577 389.216522.png>)
-![alt text](<data_analysis/data/cropped/rp13/107 273 102.238930.png>) 
+![alt text](<data_analysis/data/cropped/rp13/73 467 351.805939.png>) 
 ![alt text](<data_analysis/data/cropped/rp13/1075 301 147.868256.png>)
 
 Raspberry PI camera 2.0
+
+![alt text](<data_analysis/data/cropped/rp20/992 464 162.237442.png>) 
+![alt text](<data_analysis/data/cropped/rp20/99 338 141.950699.png>)
+![alt text](<data_analysis/data/cropped/rp20/9650 578 163.062180.png>) 
+![alt text](<data_analysis/data/cropped/rp20/9612 332 120.886620.png>)
+![alt text](<data_analysis/data/cropped/rp20/9550 289 93.348083.png>) 
+![alt text](<data_analysis/data/cropped/rp20/9462 513 186.837463.png>)
 
 ## Cite as
 
