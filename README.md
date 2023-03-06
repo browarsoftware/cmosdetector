@@ -25,12 +25,12 @@ OpenCV
 
 Raspberry PI camera 1.3
 
-![alt text](data_analysis/data/cropped/rp13/1 294 146.799316.png) 
-![alt text](data_analysis/data/cropped/rp13/1 294 146.799316.png)
-![alt text](data_analysis/data/cropped/rp13/1 294 146.799316.png) 
-![alt text](data_analysis/data/cropped/rp13/1 294 146.799316.png)
-![alt text](data_analysis/data/cropped/rp13/1 294 146.799316.png) 
-![alt text](data_analysis/data/cropped/rp13/1 294 146.799316.png)
+![alt text](<data_analysis/data/cropped/rp13/1 294 146.799316.png>) 
+![alt text](<data_analysis/data/cropped/rp13/1 294 146.799316.png>)
+![alt text](<data_analysis/data/cropped/rp13/1 294 146.799316.png>) 
+![alt text](<data_analysis/data/cropped/rp13/1 294 146.799316.png>)
+![alt text](<data_analysis/data/cropped/rp13/1 294 146.799316.png>) 
+![alt text](<data_analysis/data/cropped/rp13/1 294 146.799316.png>)
 
 Raspberry PI camera 2.0
 
