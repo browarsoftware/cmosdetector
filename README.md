@@ -2,7 +2,9 @@
 
 # The practice of detecting potential space particles using CMOS cameras: hardware and algorithms
 
-Author: [Tomasz Hachaj](https://home.agh.edu.pl/~thachaj/)
+By Tomasz Hachaj, Marcin Piekarczyk
+
+Source codes author: [Tomasz Hachaj](https://home.agh.edu.pl/~thachaj/)
 
 Abstract: TO BE ADDED
 
@@ -30,7 +32,7 @@ Raspberry PI camera 1.3
 ![alt text](<data_analysis/data/cropped/rp13/1033 404 184.884628.png>) 
 ![alt text](<data_analysis/data/cropped/rp13/105 577 389.216522.png>)
 ![alt text](<data_analysis/data/cropped/rp13/73 467 351.805939.png>) 
-![alt text](<data_analysis/data/cropped/rp13/1075 301 147.868256.png>)
+![alt text](<data_analysis/data/cropped/rp13/743 419 226.178711.png>)
 
 Raspberry PI camera 2.0
 
