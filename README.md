@@ -16,6 +16,9 @@ OpenCV
 
 ## How to run
 
+- Compile C++ code [image_capture.cpp](raspberry_pi_code/image_capture.cpp)
+- Run bash script [restart.sh](raspberry_pi_code/restart.sh)
+
 ### Example particles detected by software
 
 
