@@ -16,8 +16,10 @@ OpenCV
 
 ## How to run
 
+- Connect the camera to hardware (we used Raspberry PI 3.0 and Raspberry PI cameras 1.3 and 2.0)
 - Compile C++ code [image_capture.cpp](raspberry_pi_code/image_capture.cpp)
 - Run bash script [restart.sh](raspberry_pi_code/restart.sh)
+- After capturing enough data run analysis found in folder [data_analysis](data_analysis/)
 
 ### Example particles detected by software
 
