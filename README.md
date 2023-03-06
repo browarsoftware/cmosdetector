@@ -23,10 +23,13 @@ OpenCV
 
 ### Example particles detected by software
 
+Raspberry PI camera 1.3
 
-![alt text](image/001.gif) ![alt text](image/002.gif)
-![alt text](image/003.gif) ![alt text](image/004.gif)
-![alt text](image/005.gif) ![alt text](image/006.gif)
+![alt text](data/cropped/rp13/1 294 146.799316.png) ![alt text](data/cropped/rp13/1 294 146.799316.png)
+![alt text](data/cropped/rp13/1 294 146.799316.png) ![alt text](data/cropped/rp13/1 294 146.799316.png)
+![alt text](data/cropped/rp13/1 294 146.799316.png) ![alt text](data/cropped/rp13/1 294 146.799316.png)
+
+Raspberry PI camera 2.0
 
 ## Cite as
 
