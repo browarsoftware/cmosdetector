@@ -23,7 +23,7 @@ OpenCV
 - Run bash script [restart.sh](raspberry_pi_code/restart.sh)
 - After capturing enough data run analysis found in folder [data_analysis](data_analysis/)
 
-### Example particles detected by software
+### Example potential particles detected by software
 
 Raspberry PI camera 1.3
 
