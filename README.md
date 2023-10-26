@@ -6,7 +6,11 @@ By Tomasz Hachaj, Marcin Piekarczyk
 
 Source codes author: [Tomasz Hachaj](https://home.agh.edu.pl/~thachaj/)
 
-Abstract: TO BE ADDED
+Abstract: 
+
+
+In this paper, we discuss a practice of potential cosmic ray detection using off-the-shelves CMOS cameras. We discuss and presents the limitations of up-to-date hardware and software approaches to this task. We also present a hardware solution that we made for long-term testing of algorithms for potential cosmic ray detection. We have also proposed, implemented and tested a novel algorithm that enables real-time processing of image frames acquired by CMOS cameras in order to detect tracks of potential particles. We have compared our results with already published results and obtained acceptable results overcoming some limitation of already existing algorithms. Both source codes and data are available to download.
+
 
 Keywords: Cosmic rays detection, CMOS sensors, low-power devices, image processing
 
@@ -45,4 +49,23 @@ Raspberry PI camera 2.0
 
 ## Cite as
 
-TO BE ADDED
+Hachaj, Tomasz, and Marcin Piekarczyk. 2023. "The Practice of Detecting Potential Cosmic Rays Using CMOS Cameras: Hardware and Algorithms" Sensors 23, no. 10: 4858. https://doi.org/10.3390/s23104858 
+
+
+@Article{s23104858,\
+AUTHOR = {Hachaj, Tomasz and Piekarczyk, Marcin},\
+TITLE = {The Practice of Detecting Potential Cosmic Rays Using CMOS Cameras: Hardware and Algorithms},\
+JOURNAL = {Sensors},\
+VOLUME = {23},\
+YEAR = {2023},\
+NUMBER = {10},\
+ARTICLE-NUMBER = {4858},\
+URL = {https://www.mdpi.com/1424-8220/23/10/4858}, \
+PubMedID = {37430771},\
+ISSN = {1424-8220},\
+DOI = {10.3390/s23104858}\
+}
+
+
+
+
